@@ -1,0 +1,13 @@
+{
+  "name": "t-expense-tracker",
+  "version": "1.0.0",
+  "description": "Keep track of income and expenses. Add and remove items and save to local storage",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
